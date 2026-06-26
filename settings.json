@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-    "Stay connected to the discord server of Paradis to be updated."
+    ""
       ]
     },
     "chat-log": true,
@@ -69,7 +69,7 @@
   "beds": {
     "pick-up-day": false,
     "place-night": false
-  },
+  },      
   "discord": {
     "enabled": false,
     "webhookUrl": "",
